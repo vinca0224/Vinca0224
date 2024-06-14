@@ -14,10 +14,8 @@
 
 ## GitHub Stat and Languages
 <p align='center'>
-  <a href="https://github.com/vinca0224">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=vinca0224&theme=onelight&show_icons=true"/>
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinca0224&theme=onelight&layout=compact"/>
-  </a>
 </p>
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
