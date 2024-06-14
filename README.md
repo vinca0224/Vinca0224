@@ -18,7 +18,7 @@
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinca0224&theme=onelight&layout=compact"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+<img src="https://github.com/vinca0224/vinca0224/blob/output/github-contribution-grid-snake.svg"/>
 
 ## Using Language
 <p align='left'>
