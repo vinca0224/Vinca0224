@@ -1,4 +1,4 @@
-# 안녕하세요, 오늘도 좋은 하루 보내세요
+# 안녕하세요, 오늘도 좋은 하루 보내세요(Hello, have a good day.)
 <p align='center'>
   <a href="https://github.com/vinca0224">
     <img src="https://capsule-render.vercel.app/api?type=waving&height=450&color=gradient&text=Good%20morning-nl-%20Good%20afternoon-nl-Good%20evening%20-nl-Good%20night&section=header&reversal=false&textBg=false&fontSize=48&animation=twinkling"/>
