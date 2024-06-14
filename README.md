@@ -11,8 +11,8 @@ Good morning, Good afternoon, Good evenning and Good night
 ## GitHub Stat and Languages
 <p align='center'>
   <a href="https://github.com/vinca0224">
-    <img src="https://github-readme-stats.vercel.app/api?username=vinca0224&theme=onelight&show_icons=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinca0224&theme=onelight&layout=compact"/>
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=vinca0224&theme=onelight&show_icons=true"/>
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinca0224&theme=onelight&layout=compact"/>
   </a>
 </p>
 
