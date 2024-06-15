@@ -18,8 +18,6 @@
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinca0224&theme=onelight&layout=compact"/>
 </p>
 
-<img src="https://github.com/vinca0224/vinca0224/blob/output/github-contribution-grid-snake.svg"/>
-
 ## Using Language
 <p align='left'>
   <img height="40" src="https://img.icons8.com/?size=100&id=GPfHz0SM85FX&format=png&color=000000" title="Java">
@@ -51,6 +49,7 @@
 
 ## Portfolio
   - Python
-    - [빅데이터 분석](https://github.com/vinca0224/bigdata-analysis-2024)  
+    - [빅데이터 분석](https://github.com/vinca0224/bigdata-analysis-2024)
+    - [파이썬 환자 DB 관리프로그램](https://github.com/vinca0224/InpatientProgram)
   - Java
     - [Spring Boot](https://github.com/vinca0224/Springboot-2024)
