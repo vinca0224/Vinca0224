@@ -50,6 +50,6 @@
 ## Portfolio
   - Python
     - [빅데이터 분석](https://github.com/vinca0224/bigdata-analysis-2024)
-    - [파이썬 환자 DB 관리프로그램](https://github.com/vinca0224/InpatientProgram)
+    - [환자 DB 관리프로그램](https://github.com/vinca0224/InpatientProgram)
   - Java
     - [Spring Boot](https://github.com/vinca0224/Springboot-2024)
