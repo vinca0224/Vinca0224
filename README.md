@@ -51,7 +51,8 @@
 |Visual Studio Code|Python 개발, Spring Boot 개발|
 |Oracle DB|DataBase 기본학습|
 
-## Portfolio
+<!--Portfolio-->
+## Repository Index
   - Python
     - [빅데이터 분석](https://github.com/vinca0224/bigdata-analysis-2024)
     - [환자 DB 관리프로그램](https://github.com/vinca0224/InpatientProgram)
