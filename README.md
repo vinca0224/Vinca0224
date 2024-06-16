@@ -60,6 +60,6 @@
     - [Spring Boot](https://github.com/vinca0224/Springboot-2024)
       
   - ETC
-    - [R](https://github.com/vinca0224/RStudy)
-    - [JS](https://github.com/vinca0224/JS)
-    - [HTML + CSS}(https://github.com/vinca0224/HTML)
+    - [R 기초문법 익히기](https://github.com/vinca0224/RStudy)
+    - [JavaScript 기초문법 익히기](https://github.com/vinca0224/JS)
+    - [HTML + CSS 적용하기](https://github.com/vinca0224/HTML)
