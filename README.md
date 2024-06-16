@@ -48,8 +48,9 @@
 ## Technique Table
 | 기술분류 | 기술 명세 |
 |:--:|:--:|
-|Visual Studio Code|Python 개발, Spring Boot 개발|
+|Visual Studio Code|Python 개발, Spring Boot 개발, 프론트 엔드 작업|
 |Oracle DB|DataBase 기본학습|
+|Eclipse|Java 개발|
 
 <!--Portfolio-->
 ## Repository Index
