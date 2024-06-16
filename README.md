@@ -38,8 +38,12 @@
   <img height="40" src="https://img.icons8.com/?size=100&id=kjaF4LlvyR6g&format=png&color=000000" title="DBeaver">
 </p>
 
+<!--
+
 ## Badge
 <img src="https://img.shields.io/badge/${아이콘}-${색상}?style=${뱃지스타일}&logo=${텍스트}&logoColor=${텍스트 색상}"/></a>&nbsp
+-->
+
 
 ## Technique Table
 | 기술분류 | 기술 명세 |
