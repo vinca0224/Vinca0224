@@ -9,7 +9,11 @@
 - 이름 : 임경세
 - 활동 :
   - 2024 빅데이터를 활용한 JAVA 개발자 과정
-- 주요 프로그램 : 
+- 자격증
+  - 데이터준전문가(ADsP)
+  - SQL Devleloper
+  - 정보처리기사(~ing)
+  - 의공기사(~ing)
 - Email : vinca0224@naver.com
 
 ## GitHub Stat and Languages
