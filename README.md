@@ -51,19 +51,38 @@
 
 <!--Portfolio-->
 ## Repository Index
-  - Python
-    - [빅데이터 분석](https://github.com/vinca0224/bigdata-analysis-2024)
-    - [환자 DB 관리프로그램](https://github.com/vinca0224/InpatientProgram)
+- Python
+  - [빅데이터 분석](https://github.com/vinca0224/bigdata-analysis-2024)
+  - [환자 DB 관리프로그램](https://github.com/vinca0224/InpatientProgram)
 
-  - Java
-    - [Spring Boot](https://github.com/vinca0224/Springboot-2024)
-    - [팀프로젝트: 크라우드펀딩 웹사이트 개발](https://github.com/PUK-Java/PUK-Groupware)
-      
-  - ETC
-    - [R 기초문법 익히기](https://github.com/vinca0224/RStudy)
-    - [JavaScript 기초문법 익히기](https://github.com/vinca0224/JS) &nbsp; <img src="https://img.shields.io/badge/work_in_progress-yellow">
-    - [HTML + CSS 적용하기](https://github.com/vinca0224/HTML) &nbsp; <img src="https://img.shields.io/badge/work_in_progress-yellow">
+- Java
+  - [Spring Boot](https://github.com/vinca0224/Springboot-2024)
+  - [팀프로젝트: 크라우드펀딩 웹사이트 개발](https://github.com/PUK-Java/PUK-Groupware)
+    
+- ETC
+  - [R 기초문법 익히기](https://github.com/vinca0224/RStudy)
+  - [JavaScript 기초문법 익히기](https://github.com/vinca0224/JS) &nbsp; <img src="https://img.shields.io/badge/work_in_progress-yellow">
+  - [HTML + CSS 적용하기](https://github.com/vinca0224/HTML) &nbsp; <img src="https://img.shields.io/badge/work_in_progress-yellow">
 
+## Future goals
+- 🚨 급하지만 꼼꼼하게
+  - TOEIC 준비하기(6.30) 
+  - 정보처리기사 실기 준비하기(7.28 ~ 8.24)
+  - GitHub 정리하기
+  - 빅데이터 분석 개인 프로젝트 만들기(지역 내 유치원 수와 출산율 간의 상관관계 분석)
+  
+- 🎯 여유롭지만 조금씩
+  - 의공기사 실기 준비하기(10.19 ~ 11.08)
+  - Spring Boot 웹 개발 개인 프로젝트 만들기
+  
+- 📖 천천히
+  - 새로운 언어 배우기
+  - 빅데이터 공부하기
+
+- 🏃‍♂️ 꾸준히
+  - 운동하기
+  - 독서하기
+  - 복습하기
 #
 <p align='center'>
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RtdmdlNzZyOGhka2FhYmNibmpubnpiOWRqbXplaHQzcTV6dTZvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uWMwQYgYVHVGU/giphy.gif" margin-top=100 height=450/><br>
