@@ -68,5 +68,5 @@
       
   - ETC
     - [R 기초문법 익히기](https://github.com/vinca0224/RStudy)
-    - [JavaScript 기초문법 익히기](https://github.com/vinca0224/JS)
-    - [HTML + CSS 적용하기](https://github.com/vinca0224/HTML)
+    - [JavaScript 기초문법 익히기(공사 중)](https://github.com/vinca0224/JS)
+    - [HTML + CSS 적용하기(공사 중)](https://github.com/vinca0224/HTML)
