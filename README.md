@@ -42,13 +42,6 @@
   <img height="40" src="https://img.icons8.com/?size=100&id=kjaF4LlvyR6g&format=png&color=000000" title="DBeaver">
 </p>
 
-<!--
-
-## Badge
-<img src="https://img.shields.io/badge/${아이콘}-${색상}?style=${뱃지스타일}&logo=${텍스트}&logoColor=${텍스트 색상}"/></a>&nbsp
--->
-
-
 ## Technique Table
 | 기술분류 | 기술 명세 |
 |:--:|:--:|
@@ -71,10 +64,10 @@
     - [JavaScript 기초문법 익히기](https://github.com/vinca0224/JS) &nbsp; <img src="https://img.shields.io/badge/work_in_progress-yellow">
     - [HTML + CSS 적용하기](https://github.com/vinca0224/HTML) &nbsp; <img src="https://img.shields.io/badge/work_in_progress-yellow">
 
-# Good morning, Good afternoon, Good evening and Good night
+#
 <p align='center'>
-  <a href="https://github.com/vinca0224">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RtdmdlNzZyOGhka2FhYmNibmpubnpiOWRqbXplaHQzcTV6dTZvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uWMwQYgYVHVGU/giphy.gif"/>
-  </a>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RtdmdlNzZyOGhka2FhYmNibmpubnpiOWRqbXplaHQzcTV6dTZvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uWMwQYgYVHVGU/giphy.gif" margin-top=100 height=450/><br>
+  <b>Good morning, Good afternoon, Good evening<br> and<br> Good night</b>
 </p>
+
 
