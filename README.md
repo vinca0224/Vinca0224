@@ -70,3 +70,11 @@
     - [R 기초문법 익히기](https://github.com/vinca0224/RStudy)
     - [JavaScript 기초문법 익히기](https://github.com/vinca0224/JS) &nbsp; <img src="https://img.shields.io/badge/work_in_progress-yellow">
     - [HTML + CSS 적용하기](https://github.com/vinca0224/HTML) &nbsp; <img src="https://img.shields.io/badge/work_in_progress-yellow">
+
+# Good morning, Good afternoon, Good evening and Good night
+<p align='center'>
+  <a href="https://github.com/vinca0224">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RtdmdlNzZyOGhka2FhYmNibmpubnpiOWRqbXplaHQzcTV6dTZvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uWMwQYgYVHVGU/giphy.gif"/>
+  </a>
+</p>
+
