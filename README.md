@@ -89,7 +89,7 @@
 #
 <p align='center'>
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RtdmdlNzZyOGhka2FhYmNibmpubnpiOWRqbXplaHQzcTV6dTZvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uWMwQYgYVHVGU/giphy.gif" margin-top=100 height=450/><br>
-  <b>Good morning, Good afternoon, Good evening<br> and<br> Good night</b>
+  <b>Good morning, Good afternoon, Good evening<br> And<br> Good night</b>
 </p>
 
 
