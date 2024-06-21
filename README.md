@@ -20,7 +20,7 @@
   - 
 - <b>Email</b> : vinca0224@naver.com
 
-- <b>[portfolio](https://docs.google.com/presentation/d/1vIXNGO_Eqp-dk38_4TlsokMv4juPwSTD/edit?usp=drive_link&ouid=108795799488547815417&rtpof=true&sd=true)</b>
+- <b>[Portfolio](https://docs.google.com/presentation/d/1vIXNGO_Eqp-dk38_4TlsokMv4juPwSTD/edit?usp=drive_link&ouid=108795799488547815417&rtpof=true&sd=true)</b>
 
 ## GitHub Stat and Languages
 <p align='center'>
