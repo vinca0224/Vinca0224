@@ -8,7 +8,7 @@
 ## Profile
 - <b>이름(name)</b> : 임경세
 - <b>활동(milestone)</b>
-  - 2017.03 ~ 2021.02 : 연세대학교 원주캠포스 의공학과 전공
+  - 2017.03 ~ 2021.02 : 연세대학교 원주캠퍼스 의공학과 전공
   - 2021.03 ~ 2023.06 : ROTC 군복무 
   - 2024.02 ~ 2023.07 : 빅데이터를 활용한 JAVA 개발자 과정 수료
     
@@ -17,7 +17,10 @@
   - SQL Devleloper
   - 정보처리기사(~ing)
   - 의공기사(~ing)
+  - 
 - <b>Email</b> : vinca0224@naver.com
+
+- <b>[portfolio](https://docs.google.com/presentation/d/1vIXNGO_Eqp-dk38_4TlsokMv4juPwSTD/edit?usp=drive_link&ouid=108795799488547815417&rtpof=true&sd=true)</b>
 
 ## GitHub Stat and Languages
 <p align='center'>
