@@ -55,7 +55,7 @@
 |Oracle DB|DataBase 기본학습|
 |Eclipse|Java 개발|
 
-<!--Portfolio-->
+ <!-- 배지: &nbsp; <img src="https://img.shields.io/badge/work_in_progress-yellow"> -->
 ## Repository Index
 - Python
   - [빅데이터 분석](https://github.com/vinca0224/bigdata-analysis-2024)
@@ -67,8 +67,9 @@
     
 - ETC
   - [R 기초문법 익히기](https://github.com/vinca0224/RStudy)
+  - [HTML + CSS 적용하기](https://github.com/vinca0224/HTML)
   - [JavaScript 기초문법 익히기](https://github.com/vinca0224/JS) &nbsp; <img src="https://img.shields.io/badge/work_in_progress-yellow">
-  - [HTML + CSS 적용하기](https://github.com/vinca0224/HTML) &nbsp; <img src="https://img.shields.io/badge/work_in_progress-yellow">
+
 
 ## Future goals
 🚨 급하지만 꼼꼼하게
