@@ -58,6 +58,7 @@
  <!-- 배지: &nbsp; <img src="https://img.shields.io/badge/work_in_progress-yellow"> -->
 ## Repository Index
 - Python
+  - [파이썬 기초문법](https://github.com/vinca0224/JavaBigData2024)
   - [빅데이터 분석](https://github.com/vinca0224/bigdata-analysis-2024)
   - [환자 DB 관리프로그램](https://github.com/vinca0224/InpatientProgram)
 
