@@ -90,7 +90,7 @@
 🏃‍♂️ 꾸준히
   - 운동하기
   - 독서하기
-  - 복습하기
+
 #
 <p align='center'>
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RtdmdlNzZyOGhka2FhYmNibmpubnpiOWRqbXplaHQzcTV6dTZvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uWMwQYgYVHVGU/giphy.gif" margin-top=100 height=450/><br>
